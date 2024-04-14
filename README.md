@@ -1,0 +1,1 @@
+# Development-of-a-Multi-material-1D-Finite-Element-Model-for-Stress-Analysis-and-Failure-Prediction
